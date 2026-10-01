@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*_report.txt
+*_qds.csv
+# Jeśli nie chcesz wysyłać wszystkich zdjęć PL, odkomentuj poniższe:
+# *.png
